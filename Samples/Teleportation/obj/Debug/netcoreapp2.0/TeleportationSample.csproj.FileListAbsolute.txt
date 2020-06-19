@@ -1,0 +1,14 @@
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\TeleportationSample.deps.json
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\TeleportationSample.runtimeconfig.json
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\TeleportationSample.runtimeconfig.dev.json
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\TeleportationSample.dll
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\TeleportationSample.pdb
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\Microsoft.Quantum.Canon.dll
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\bin\Debug\netcoreapp2.0\Microsoft.Quantum.Canon.pdb
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.csprojAssemblyReference.cache
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.csproj.CoreCompileInputs.cache
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.AssemblyInfoInputs.cache
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.AssemblyInfo.cs
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.csproj.CopyComplete
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.dll
+C:\Users\nimac\Q#Projects\Quantum\Samples\Teleportation\obj\Debug\netcoreapp2.0\TeleportationSample.pdb

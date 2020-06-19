@@ -1,0 +1,9 @@
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\bin\Debug\netstandard2.0\Microsoft.Quantum.Canon.deps.json
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\bin\Debug\netstandard2.0\Microsoft.Quantum.Canon.dll
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\bin\Debug\netstandard2.0\Microsoft.Quantum.Canon.pdb
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.csprojAssemblyReference.cache
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.csproj.CoreCompileInputs.cache
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.AssemblyInfoInputs.cache
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.AssemblyInfo.cs
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.dll
+C:\Users\nimac\Q#Projects\Quantum\Microsoft.Quantum.Canon\obj\Debug\netstandard2.0\Microsoft.Quantum.Canon.pdb
